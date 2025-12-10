@@ -27,7 +27,4 @@ Exécution
     Projet réalisé par 
 Ahmed Guidara
 Mahdi Ghorbel 
-Majd Ben Moallem.
-Ahmed Guidara
-Mahdi Ghorbel 
-Majd Ben Moallem.
+Majd Ben Moallem
